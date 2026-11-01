@@ -2,10 +2,13 @@
 Exists in French and in English (IA translated).
 
 ## Typst version
-You can use any typst compiler you want, [main.typ](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/main.typ) is given.
+You can use any typst compiler you want, both [main_fr.typ](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/main_fr.typ) and [main_en.typ](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/main_en.typ) are given.
 
 ## PDF Version
-Available in this repo : [Rapport.pdf](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/Rapport.pdf)
+Available with following links :
+| French      | English    |
+|:-------- |:-------- |
+|[Abraxas - Documentation.pdf](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/Rapport.pdf) (French)|[Abraxas - Documentation.pdf](https://github.com/anonyme-sjf-26/Abraxas_typst/blob/main/Report.pdf) (English)|
 
 ## Project repositories
 - [Abraxas](https://github.com/anonyme-sjf-26/Abraxas)
